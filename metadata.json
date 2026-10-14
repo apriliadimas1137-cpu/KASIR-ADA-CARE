@@ -1,0 +1,6 @@
+{
+  "name": "Kasir Cuci Sepatu",
+  "description": "Aplikasi kasir & manajemen cuci sepatu modern dengan pembayaran digital QRIS, laporan grafik real-time, stok otomatis, dan cetak nota ke galeri & WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
